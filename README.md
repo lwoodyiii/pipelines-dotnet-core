@@ -1,6 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
+[![Build Status](https://dev.azure.com/LeWoodySandbox/Sandbox/_apis/build/status/lwoodyiii.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/LeWoodySandbox/Sandbox/_build/latest?definitionId=1?branchName=master)
 
 | Example | Build status |
 |---------|--------------|
